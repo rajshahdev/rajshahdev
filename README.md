@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajshahdev
-- 👀 I’m interested in Scraping
-- 🌱 I’m currently learning Machine learning
+- 👀 I’m interested in Machine learning
+- 🌱 I’m currently doing Scraping
 - 📫 How to reach me be.rajshah@gmail.com
 
 <!---
