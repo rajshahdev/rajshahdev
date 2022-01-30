@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajshahdev
-- 👀 I’m interested in Machine learning
-- 🌱 I’m currently doing Scraping
+- 👀 I’m interested in Django and FastApi
+- 🌱 I’m currently doing Backend Api's.
 - 📫 How to reach me be.rajshah@gmail.com
 
 <!---
