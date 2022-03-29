@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajshahdev
 - 👀 I’m interested in Django and FastApi
 - 🌱 I’m currently doing Backend Api's.
-- 📫 How to reach me be.rajshah@gmail.com
+- 📫 Reach me @ be.rajshah@gmail.com
 
 <!---
 rajshahdev/rajshahdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
